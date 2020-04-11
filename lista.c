@@ -6,7 +6,7 @@
   Estrutura interna do tipo deve ser definida na implementa??o do TAD. Devem ser definidos campos:
   - nome (string)
   - matricula (int)
-  - endereco (string)b
+  - endereco (string)v
   */
 struct tipoitem{
   char  *nome, *endereco;
